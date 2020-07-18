@@ -9,7 +9,7 @@
     "@emotion/styled": "10.0.15",
     "hsluv": "0.0.3",
     "image-pal-canvas": "1.2.2",
-    "lodash": "4.17.15",
+    "lodash": "4.17.19",
     "rc-slider": "8.6.13",
     "react": "16.8.6",
     "react-dom": "16.8.6",
